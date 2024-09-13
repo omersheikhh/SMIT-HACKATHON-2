@@ -83,7 +83,7 @@ const BloodBank = () => {
                     className="w-20 h-20 rounded-full border"
                   />
                   <h2 className="text-2xl font-semibold text-gray-800">{donor.name}</h2>
-                </div>zz
+                </div>zzz
                 <div>
                   <h1 className="text-md font-semibold">Message</h1>
                 </div>
