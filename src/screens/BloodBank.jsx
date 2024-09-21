@@ -107,7 +107,7 @@ const BloodBank = () => {
                     className="mt-1 block w-full border-gray-300 rounded-md shadow-sm focus:border-blue-500 focus:ring focus:ring-blue-500 focus:ring-opacity-50"
                     required
                   />
-                </label>.Data Updatedvvvvvv
+                </label>.Data Updatedvvvvvvv
                 <label className="block">
                   <span className="text-gray-700">Blood Type</span>
                   <input
